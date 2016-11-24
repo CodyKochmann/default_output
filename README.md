@@ -1,4 +1,4 @@
-# default_output
+# default_output.py
 #### Overwrite the output of functions in python
 
 #### Example Usage:
